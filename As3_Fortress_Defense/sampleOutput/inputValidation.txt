@@ -1,0 +1,76 @@
+**************************************
+Sample Fortress Defense Output
+INPUT VALIDATION
+**************************************
+
+PS D:\Courses\all-my-code\CMPT213-Code\2022-Spring\As3-FortressDefense> java -jar .\out\artifacts\As3_FortressDefense_jar\As3-FortressDefense.jar 20 --cheat
+Error: Unable to place 20 on the board.
+       Try running game again with fewer tanks.
+
+PS D:\Courses\all-my-code\CMPT213-Code\2022-Spring\As3-FortressDefense> java -jar .\out\artifacts\As3_FortressDefense_jar\As3-FortressDefense.jar
+Starting game with 5 tanks.
+----------------------------
+Welcome to Fortress Defense!
+by Brian Fraser
+----------------------------
+
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2500.
+Enter your move: a0
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: a11
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: z0
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: z5
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: z11
+Invalid target. Please enter a coordinate such as D10.
+Enter your move:
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: Hello world! I'm here!
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: x0
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: k1
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: k10
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: k11
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: a0 a10
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: a1
+Miss.
+Alive tank #1 of 5 shot you for 20!
+Alive tank #2 of 5 shot you for 20!
+Alive tank #3 of 5 shot you for 20!
+Alive tank #4 of 5 shot you for 20!
+Alive tank #5 of 5 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A     ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2400.
+Enter your move: 

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="As3-FortressDefense:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/As3_FortressDefense_jar</output-path>
+    <root id="archive" name="As3-FortressDefense.jar">
+      <element id="module-output" name="As3_Fortress_Defense" />
+    </root>
+  </artifact>
+</component>

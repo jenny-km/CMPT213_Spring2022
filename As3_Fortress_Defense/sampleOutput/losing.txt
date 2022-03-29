@@ -1,0 +1,438 @@
+**************************************
+Sample Fortress Defense Output
+- LOSING THE GAME #1 (10 tanks with cheating)
+**************************************
+
+
+PS D:\Courses\all-my-code\CMPT213-Code\2022-Spring\As3-FortressDefense> java -jar .\out\artifacts\As3_FortressDefense_jar\As3-FortressDefense.jar 12 --cheat
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  .  .  .  .  .  .  .  .  F  .
+    B  .  .  D  .  .  B  I  .  F  F
+    C  .  .  D  .  B  B  I  .  F  F
+    D  J  J  D  D  B  B  I  I  .  .
+    E  J  J  .  D  .  .  .  I  .  A
+    F  J  H  C  C  C  .  .  L  L  A
+    G  H  H  H  C  .  G  L  L  .  A
+    H  .  H  .  C  G  G  G  L  .  A
+    I  .  .  K  K  G  .  .  E  E  A
+    J  .  .  K  K  K  .  .  E  E  E
+Fortress Structure Left: 2500.
+(Lower case tank letters are where you shot.)
+
+
+Starting game with 12 tanks.
+----------------------------
+Welcome to Fortress Defense!
+by Brian Fraser
+----------------------------
+
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2500.
+Enter your move:
+PS D:\Courses\all-my-code\CMPT213-Code\2022-Spring\As3-FortressDefense> java -jar .\out\artifacts\As3_FortressDefense_jar\As3-FortressDefense.jar 12 --cheat
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  I  .  .  J  G  .  .  .  L  L
+    B  I  I  .  J  G  G  G  G  L  L
+    C  .  I  J  J  K  K  K  K  L  .
+    D  .  I  C  J  F  .  K  .  B  .
+    E  .  .  C  C  F  .  .  .  B  .
+    F  .  C  C  F  F  F  E  B  B  B
+    G  .  A  .  .  .  .  E  .  .  .
+    H  A  A  .  .  D  D  E  E  E  .
+    I  .  A  .  .  D  D  .  H  H  .
+    J  .  A  .  .  D  .  .  H  H  H
+Fortress Structure Left: 2500.
+(Lower case tank letters are where you shot.)
+
+
+Starting game with 12 tanks.
+----------------------------
+Welcome to Fortress Defense!
+by Brian Fraser
+----------------------------
+
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2500.
+Enter your move: a1
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 20!
+Alive tank #10 of 12 shot you for 20!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2260.
+Enter your move: b2
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 20!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2035.
+Enter your move: c3
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 20!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 1810.
+Enter your move: d4
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 5!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 1600.
+Enter your move: a1
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 5!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 1390.
+Enter your move: a1
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 5!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 1180.
+Enter your move: a1
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 5!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 970.
+Enter your move: a1
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 5!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 760.
+Enter your move:
+Invalid target. Please enter a coordinate such as D10.
+Enter your move: a2
+Miss.
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 5!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X     ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 550.
+Enter your move: a3
+Miss.
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 5!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X        ~  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 340.
+Enter your move: a4
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 2!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X        X  ~  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 133.
+Enter your move: a5
+HIT!
+Alive tank #1 of 12 shot you for 20!
+Alive tank #2 of 12 shot you for 20!
+Alive tank #3 of 12 shot you for 20!
+Alive tank #4 of 12 shot you for 20!
+Alive tank #5 of 12 shot you for 20!
+Alive tank #6 of 12 shot you for 20!
+Alive tank #7 of 12 shot you for 20!
+Alive tank #8 of 12 shot you for 20!
+Alive tank #9 of 12 shot you for 5!
+Alive tank #10 of 12 shot you for 2!
+Alive tank #11 of 12 shot you for 20!
+Alive tank #12 of 12 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  X        X  X  ~  ~  ~  ~  ~
+    B  ~  X  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  X  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 0.
+I'm sorry, your fortress has been smashed!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  i        j  g  .  .  .  L  L
+    B  I  i  .  J  G  G  G  G  L  L
+    C  .  I  j  J  K  K  K  K  L  .
+    D  .  I  C  j  F  .  K  .  B  .
+    E  .  .  C  C  F  .  .  .  B  .
+    F  .  C  C  F  F  F  E  B  B  B
+    G  .  A  .  .  .  .  E  .  .  .
+    H  A  A  .  .  D  D  E  E  E  .
+    I  .  A  .  .  D  D  .  H  H  .
+    J  .  A  .  .  D  .  .  H  H  H
+Fortress Structure Left: 0.
+(Lower case tank letters are where you shot.)
+PS D:\Courses\all-my-code\CMPT213-Code\2022-Spring\As3-FortressDefense>

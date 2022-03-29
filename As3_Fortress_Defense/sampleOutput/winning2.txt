@@ -1,0 +1,145 @@
+**************************************
+Sample Fortress Defense Output
+- WINNING THE GAME #2  -  (One tank, cheat)
+**************************************
+
+PS D:\Courses\all-my-code\CMPT213-Code\2022-Spring\As3-FortressDefense> java -jar .\out\artifacts\As3_FortressDefense_jar\As3-FortressDefense.jar 1 --cheat
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  .  .  .  .  .  .  .  .  .  .
+    B  .  .  .  .  .  .  .  .  .  .
+    C  .  .  .  .  .  .  .  .  .  .
+    D  .  .  A  .  .  .  .  .  .  .
+    E  .  .  A  .  .  .  .  .  .  .
+    F  .  .  A  A  .  .  .  .  .  .
+    G  .  .  A  .  .  .  .  .  .  .
+    H  .  .  .  .  .  .  .  .  .  .
+    I  .  .  .  .  .  .  .  .  .  .
+    J  .  .  .  .  .  .  .  .  .  .
+Fortress Structure Left: 2500.
+(Lower case tank letters are where you shot.)
+
+
+Starting game with 1 tanks.
+----------------------------
+Welcome to Fortress Defense!
+by Brian Fraser
+----------------------------
+
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2500.
+Enter your move: d3
+HIT!
+Alive tank #1 of 1 shot you for 20!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2480.
+Enter your move: e3
+HIT!
+Alive tank #1 of 1 shot you for 5!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2475.
+Enter your move: f3
+HIT!
+Alive tank #1 of 1 shot you for 2!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2473.
+Enter your move: g3
+HIT!
+Alive tank #1 of 1 shot you for 1!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    G  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2472.
+Enter your move: f4
+HIT!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    B  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    C  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    D  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    E  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    F  ~  ~  X  X  ~  ~  ~  ~  ~  ~
+    G  ~  ~  X  ~  ~  ~  ~  ~  ~  ~
+    H  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    I  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    J  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+Fortress Structure Left: 2472.
+Congratulations! You won!
+
+Game Board:
+       1  2  3  4  5  6  7  8  9 10
+    A  .  .  .  .  .  .  .  .  .  .
+    B  .  .  .  .  .  .  .  .  .  .
+    C  .  .  .  .  .  .  .  .  .  .
+    D  .  .  a  .  .  .  .  .  .  .
+    E  .  .  a  .  .  .  .  .  .  .
+    F  .  .  a  a  .  .  .  .  .  .
+    G  .  .  a  .  .  .  .  .  .  .
+    H  .  .  .  .  .  .  .  .  .  .
+    I  .  .  .  .  .  .  .  .  .  .
+    J  .  .  .  .  .  .  .  .  .  .
+Fortress Structure Left: 2472.
+(Lower case tank letters are where you shot.)
+PS D:\Courses\all-my-code\CMPT213-Code\2022-Spring\As3-FortressDefense>
+
